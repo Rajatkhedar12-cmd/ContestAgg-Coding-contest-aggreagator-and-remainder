@@ -8,4 +8,5 @@ tabulate
 dnspython==2.6.1
 beautifulsoup4==4.12.3
 lxml
+schedule
 
